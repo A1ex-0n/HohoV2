@@ -1,1 +1,367 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _kMrLfvtlGyul = a; end)); return(function(h,...)local o;local d;local a;local t;local r;local s;local e=24915;local n=0;local l={};while n<526 do n=n+1;while n<0x335 and e%0x3a48<0x1d24 do n=n+1 e=(e+727)%26394 local f=n+e if(e%0x2dce)<0x16e7 then e=(e-0x1b)%0x7cee while n<0x1a6 and e%0x1262<0x931 do n=n+1 e=(e+969)%22370 local t=n+e if(e%0x2ece)<0x1767 then e=(e*0x394)%0x79a5 local e=94211 if not l[e]then l[e]=0x1 d=(not d)and _ENV or d;end elseif e%2~=0 then e=(e+0x393)%0x2e25 local e=98609 if not l[e]then l[e]=0x1 s=tonumber;end else e=(e+0x39)%0x646f n=n+1 local e=83489 if not l[e]then l[e]=0x1 o={};end end end elseif e%2~=0 then e=(e+0x379)%0x847c while n<0x14d and e%0x4010<0x2008 do n=n+1 e=(e*625)%726 local a=n+e if(e%0x1cbe)>0xe5f then e=(e-0x283)%0x97c0 local e=10745 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e*0x2e8)%0x4eff local e=35162 if not l[e]then l[e]=0x1 end else e=(e-0x117)%0xbe31 n=n+1 local e=29315 if not l[e]then l[e]=0x1 t=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=r.byte(n(0x01))local e=n(e)if l=="\2"then e=o.GsxbSymR(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then d[e]=function(e,n)return h(8,nil,h,n,e)end elseif l=="\4"then e=d[e]elseif l=="\0"then e=d[e][n(r.byte(n(0x01)))];end local n=n(0x08)o[n]=e end end end end end else e=(e+0x1e9)%0x170e n=n+1 while n<0x172 and e%0x284c<0x1426 do n=n+1 e=(e*603)%4549 local t=n+e if(e%0xacc)>=0x566 then e=(e*0x13f)%0x2d1b local e=44128 if not l[e]then l[e]=0x1 d=getfenv and getfenv();end elseif e%2~=0 then e=(e+0xcf)%0xb224 local e=99868 if not l[e]then l[e]=0x1 a="\4\8\116\111\110\117\109\98\101\114\71\115\120\98\83\121\109\82\0\6\115\116\114\105\110\103\4\99\104\97\114\107\109\81\66\117\122\111\110\0\6\115\116\114\105\110\103\3\115\117\98\82\114\69\88\114\99\98\103\0\6\115\116\114\105\110\103\4\98\121\116\101\119\116\101\119\107\120\119\67\0\5\116\97\98\108\101\6\99\111\110\99\97\116\79\115\106\90\72\120\118\120\0\5\116\97\98\108\101\6\105\110\115\101\114\116\81\79\77\121\86\85\108\88\5";end else e=(e+0x15c)%0x2abb n=n+1 local e=22900 if not l[e]then l[e]=0x1 r=string;end end end end end e=(e+912)%40116 end t(a);local n={};for e=0x0,0xff do local l=o.kmQBuzon(e);n[e]=l;n[l]=e;end local function c(e)return n[e];end local r=(function(a,t)local f,l=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local r=a while true do n[0x03][o.RrEXrcbg(t,e,(function()e=f+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""l=0x000 break end end local d=#t while e<d+0x01 do n[0x02][l]=o.RrEXrcbg(t,e,(function()e=f+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 o.QOMyVUlX(n[0x01],(c((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+r)%0x100)));r=a+r;end end return o.OsjZHxvx(n[0x01])end);t(r(214,"U_},Anur4;LC)EkX}X"));t(r(179,"*qGlZMCz.=s(j-8nZ-s%Mss.nllz.=jn(=CCjZ4=M===-3Zl=Zj(GZzM(lsGn;s.8.ll.(-.qnZs(80Mljsnnjq=GGzlG(zs(8qkClsqjsGj=t-MqnzGjlsZnz(qnnZs.88mGCqqjC7zCzslnMGnC=j.k=MGjG6(M.ZG=lZ=.s8sG(qMj=,8Mj(jSqlz.-(8GCMZsCqjZ(Zs=nMl=G88lZz=-MHnCns=nzZ8=Z8CG8z(-jnsMn=ZX88.l.-Zlbz(-=Gqzqzn+qMZ=.nqGj.js8n-&MMGqGZ==8nCqz.j-s&8MZ(=qalCl=.MyszzsjGGz-jMkql.s(.s-(=Z-jG-z(jCpsMjsGnlq8C8-.GnCGsl8-n?ZGn8l..C--Glqqj-qlCGsr8nZZ.(8(G.MCjq7tZ..s=G8q=-8llGz{(nqZM.(z8=ll=(j=qjM-CG(rC.(zn(Z-svjMlMC(jqc8Mn.-8s8MlZ88G-.qjzqGzo(._GGs.qnzlCCljC(qcG(.n=M==s.ZlG.M-MGGzG(88nl(s.j.Gq.8-l(s"));local e=(-38723+(function()local o,t=0,1;(function(n,e,l,d)e(e(d,n,n,e),l(e,e,n,l and n),l(e,e,n,d),e(l,l and d,n,l and n))end)(function(n,l,d,e)if o>358 then return e end o=o+1 t=(t+654)%2122 if(t%660)<330 then return l else return l(d(d,n,n,d),n(e,d,d and e,d and l),n(l and e,n,n,d),e(n,n,d,e)and d(n,e,d,e))end return l(n(l,n,l,l),l(e,l,d,n),l(n,e and l,e,e),n(e and d,n,e,l)and d(l and e,l,n,e))end,function(n,e,d,l)if o>331 then return d end o=o+1 t=(t+337)%45816 if(t%1580)>=790 then return d else return e(n(l,d and e,e,e),n(e,d and l,l,e and d),e(d and d,l and n,n and n,n)and n(d,d,e,e),n(n,d,l,e))end return n(l(d and l,e and e,n,d)and n(e,n,e,d),d(e,e and l,l,e)and n(n and n,n,l,d),l(d and d,n,l,l),e(l,l,l,l))end,function(n,e,d,l)if o>230 then return l end o=o+1 t=(t*342)%45242 if(t%1378)<689 then t=(t+827)%5037 return e else return l(d(n,n,n,e),l(e,n,e,d),l(n,e and d,e,d),e(e,l,l and e,e))end return e(n(d and e,l and e,l,e),e(e,e,e,e),e(l,l,n and n,l)and d(n,e and n,n,d),e(n,l,d and n,n and d))end,function(d,e,n,l)if o>365 then return e end o=o+1 t=(t*883)%39134 if(t%328)<164 then return e else return e(d(d,l,e,e),l(e,n and n,l,d),d(e,e,n,d),e(l,n,n and e,l))end return l(n(d,l,e,e),n(l,e,l,n and n),e(l,n,e,e)and l(n,l,d,d),e(d,n,n,e))end)return t;end)())local m=(getfenv)or(function()return _ENV end);local c=o.btYVqRXL or o.exhIgYTI;local t=3;local f=4;local p=1;local d=2;local function z(g,...)local a=r(e,"uby:g_J&TIAQSH^qgJ&SQAqT:I&QQyqPy^Qgb^_SIJAQj&_gybJlIAHTbJQQq::H&:gqI&ST*Jgg^byQgQA^SJb^JSATH^q&J&AbHJAQqqygJyAnyQTQSI=JyI&IQ_^qybTwQSqb:gJQQ_STy&J*I^HHyg:_AJ^gy,^q_bJTAJ^g&JST>&gq:AQ^qqg}&&&,>_yH&HJTqJ:J&bQg^:bqJ^IHHAHgJIII^ybgDA&_H_b:_7&:S:qqqAJ^TII&HSb}g^TS:J&&A&^T:_&gQ;^_yT_q:IHbQyqPy^Hgb^_SIJH&HSdqgHS;qQgATbS&q_gy&&QSq^:Q:gQ&qyybJbAbAIyQ_IAJHQy(JyIqII#^g&_QIyr:byTbI:S_:QgTTJSbqQg)ASQ^q&:b&A^Jy:JbJ&HQ^HyAJ:A&bgy:JbIQ3QbTTTQqHJ6HgqINSqUAgATyQqdg:Q&AQSqH:y&IQyqyyTAg^Qb_q_&ZJ^AS^AIDHAbT_yI:ITSQKITAQ&BQr{&&Q&tG:y&HATqI:_J_QYHqyIJJAAHIy6Jg_SSqbI____S_#__:I:THSSDQg_IS^bbT_HAQHyq&&:A_^Qy^yHTT^IbI_AIH^1b&gHTbQ:Q^^JygJyAF^qbS_AITH&bg_yI<^;y&gATTSJ>TgyTPQ^%^gI&TQJqg:_&kA^^S_K&qAJ^gyyJJI^HHbA_HIJHTbI_oT^SSb5gTT&SgMygI&^QSqA:I&JQgqygyT_AS^AyTJSAg^yy &.AXHAbI_JIJHyb6g^AS^JnTg&TgS:(d:q&SSSq^:J&&Qyq&y^JSAA^TyTJgAJ^9bq_SIAHTbJ_&IyHbZ^_PTASTdJggT&Shq^:S&AQTqT:g&yQq^^ySJAAI^Jy_JyQyq_bS_AITHSbg_yIh^k!HgATISJMJgyT#Q^bS_J&TQ&qg::&jAq^S:S&gAJ^&yyJTI^HSbA_TAgHgb:_RIbSSmAgTTJSAnygz&^QSqA:A&JQg/Q:fJ^AS^QyTJ&Ag^y:A_^ISHAbI_JIgHyblg^TSSA-T");local n=0;o.fDkeOuuE(function()o.HpqXQisL()n=n+1 end)local function e(e,l)if l then return n end;n=e+n;end local l,n,u=h(0,h,e,a,o.wtewkxwC);local function r()local l,n=o.wtewkxwC(a,e(1,3),e(5,6)+2);e(2);return(n*256)+l;end;local b=true;local b=0 local function y()local d=n();local e=n();local t=1;local d=(l(e,1,20)*(2^32))+d;local n=l(e,21,31);local e=((-1)^l(e,32));if(n==0)then if(d==b)then return e*0;else n=1;t=0;end;elseif(n==2047)then return(d==0)and(e*(1/0))or(e*(0/0));end;return o.YbFaBGpR(e,n-1023)*(t+(d/(2^52)));end;local _=n;local function j(n)local l;if(not n)then n=_();if(n==0)then return'';end;end;l=o.RrEXrcbg(a,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+b),#l do e=e..o.RrEXrcbg(l,n,n)end return e;end;local _=#o.kILisYMJ(s('\49.\48'))~=1 local e=n;local function le(...)return{...},o.olGQzlLb('#',...)end local function k()local b={};local h={};local e={};local s={b,h,nil,e};local e=n()local a={}for d=1,e do local l=u();local e;if(l==1)then e=(u()~=#{});elseif(l==2)then local n=y();if _ and o.UBTHDgcc(o.kILisYMJ(n),'.(\48+)$')then n=o.qUTtGSsk(n);end e=n;elseif(l==3)then e=j();end;a[d]=e;end;for h=1,n()do local e=u();if(l(e,1,1)==0)then local o=l(e,2,3);local c=l(e,4,6);local e={r(),r(),nil,nil};if(o==0)then e[t]=r();e[f]=r();elseif(o==#{1})then e[t]=n();elseif(o==g[2])then e[t]=n()-(2^16)elseif(o==g[3])then e[t]=n()-(2^16)e[f]=r();end;if(l(c,1,1)==1)then e[d]=a[e[d]]end if(l(c,2,2)==1)then e[t]=a[e[t]]end if(l(c,3,3)==1)then e[f]=a[e[f]]end b[h]=e;end end;s[3]=u();for e=1,n()do h[e-(#{1})]=k();end;return s;end;local function j(l,e,n)local d=e;local d=n;return s(o.UBTHDgcc(o.UBTHDgcc(({o.fDkeOuuE(l)})[2],e),n))end local function ne(y,e,u)local function ee(...)local r,m,s,z,b,l,a,j,_,g,k,n;local e=0;while-1<e do if e>2 then if e<=4 then if 1<=e then for n=22,92 do if 3~=e then g=o.olGQzlLb('#',...)-1;k={};break;end;j={};_={...};break;end;else g=o.olGQzlLb('#',...)-1;k={};end else if e~=2 then repeat if e>5 then e=-2;break;end;n=h(7);until true;else e=-2;end end else if 1>e then r=h(6,56,1,14,y);m=h(6,2,2,67,y);else if 2==e then l=-41;a=-1;else s=h(6,43,3,65,y);b=le z=0;end end end e=e+1;end;for e=0,g do if(e>=s)then j[e-s]=_[e+1];else n[e]=_[e+1];end;end;local e=g-s+1 local e;local o;local function h(...)while true do end end while true do if l<-40 then l=l+42 end e=r[l];o=e[p];if 12>o then if o>5 then if o<9 then if o>=7 then if 7<o then n[e[d]]=u[e[t]];else l=e[t];end else do return end;end else if o<=9 then do return end;else if 7<=o then repeat if o<11 then local l=e[d];local d=n[e[t]];n[l+1]=d;n[l]=d[e[f]];break;end;l=e[t];until true;else local d=e[d];local l=n[e[t]];n[d+1]=l;n[d]=l[e[f]];end end end else if o>2 then if o>3 then if o>=1 then for h=23,62 do if o<5 then local o,_,y,g,h;for s=0,6 do if 3>s then if 0<s then if s~=2 then o=e[d];_=n[e[t]];n[o+1]=_;n[o]=_[e[f]];l=l+1;e=r[l];else n(e[d],e[t]);l=l+1;e=r[l];end else n[e[d]]=u[e[t]];l=l+1;e=r[l];end else if 5>s then if s~=1 then for f=30,83 do if s<4 then n[e[d]]=(e[t]~=0);l=l+1;e=r[l];break;end;o=e[d]y,g=b(n[o](c(n,o+1,e[t])))a=g+o-1 h=0;for e=o,a do h=h+1;n[e]=y[h];end;l=l+1;e=r[l];break;end;else o=e[d]y,g=b(n[o](c(n,o+1,e[t])))a=g+o-1 h=0;for e=o,a do h=h+1;n[e]=y[h];end;l=l+1;e=r[l];end else if s==6 then n[e[d]]();else o=e[d]n[o]=n[o](c(n,o+1,a))l=l+1;e=r[l];end end end end break;end;local l=e[d]local d,e=b(n[l](c(n,l+1,e[t])))a=e+l-1 local e=0;for l=l,a do e=e+1;n[l]=d[e];end;break;end;else local l=e[d]local d,e=b(n[l](c(n,l+1,e[t])))a=e+l-1 local e=0;for l=l,a do e=e+1;n[l]=d[e];end;end else local l=e[d]local d,e=b(n[l](c(n,l+1,e[t])))a=e+l-1 local e=0;for l=l,a do e=e+1;n[l]=d[e];end;end else if 1<=o then if o>=-2 then for h=24,54 do if 1~=o then local d=e[d];local l=n[e[t]];n[d+1]=l;n[d]=l[e[f]];break;end;local o,s,y,g,h;n[e[d]]=u[e[t]];l=l+1;e=r[l];o=e[d];s=n[e[t]];n[o+1]=s;n[o]=s[e[f]];l=l+1;e=r[l];n(e[d],e[t]);l=l+1;e=r[l];o=e[d]y,g=b(n[o](c(n,o+1,e[t])))a=g+o-1 h=0;for e=o,a do h=h+1;n[e]=y[h];end;l=l+1;e=r[l];o=e[d]n[o]=n[o](c(n,o+1,a))l=l+1;e=r[l];n[e[d]]();l=l+1;e=r[l];do return end;break;end;else local d=e[d];local l=n[e[t]];n[d+1]=l;n[d]=l[e[f]];end else u[e[t]]=n[e[d]];end end end else if 18>o then if o>14 then if 16<=o then if 14<=o then repeat if o~=16 then for o=0,3 do if o>1 then if o~=0 then repeat if o<3 then n[e[d]]=u[e[t]];l=l+1;e=r[l];break;end;if(n[e[d]]~=e[f])then l=l+1;else l=e[t];end;until true;else if(n[e[d]]~=e[f])then l=l+1;else l=e[t];end;end else if-2<=o then for a=49,76 do if 0<o then u[e[t]]=n[e[d]];l=l+1;e=r[l];break;end;n[e[d]]=(e[t]~=0);l=l+1;e=r[l];break;end;else u[e[t]]=n[e[d]];l=l+1;e=r[l];end end end break;end;n(e[d],e[t]);until true;else n(e[d],e[t]);end else n[e[d]]();end else if 12<o then if 12~=o then repeat if o<14 then n[e[d]]();break;end;local e=e[d]n[e]=n[e](c(n,e+1,a))until true;else local e=e[d]n[e]=n[e](c(n,e+1,a))end else local e=e[d]n[e]=n[e](c(n,e+1,a))end end else if o>=21 then if o<=22 then if o<22 then n[e[d]]=(e[t]~=0);else if(n[e[d]]~=e[f])then l=l+1;else l=e[t];end;end else if o>=19 then repeat if o>23 then n[e[d]]=(e[t]~=0);break;end;n[e[d]]=u[e[t]];until true;else n[e[d]]=u[e[t]];end end else if 18>=o then if(n[e[d]]~=e[f])then l=l+1;else l=e[t];end;else if o>=18 then for l=29,97 do if o<20 then n(e[d],e[t]);break;end;u[e[t]]=n[e[d]];break;end;else u[e[t]]=n[e[d]];end end end end end l=1+l;end;end;return ee end;local d=0xff;local u={};local r=(1);local t='';(function(n)local l=n local a=0x00 local e=0x00 l={(function(f)if a>0x2b then return f end a=a+1 e=(e+0x478-f)%0x2a return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xae);end return true end)'Bupwp'and l[0x3](0xd0+f))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x60);t={t..'\58 a',t};u[r]=k();r=r+((not o.cMswamqb)and 1 or 0);t[1]='\58'..t[1];d[2]=0xff;end return true end)'AJECt'and l[0x2](f+0x391))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xe1);t='\37';d={function()d()end};t=t..'\100\43';end return true end)'DsahD'and l[0x1](f+0x1a8))or f end),(function(o)if a>0x1f then return o end a=a+1 e=(e+0x11f3-o)%0x48 return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xa9);end return true end)'gWFaQ'and l[0x3](0x84+o))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xc1);d[2]=(d[2]*(j(function()u()end,c(t))-j(d[1],c(t))))+1;u[r]={};d=d[2];r=r+d;end return true end)'tRS_M'and l[0x2](o+0x3d4))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xa9);u[r]=m();r=r+d;end return true end)'lMO_W'and l[0x1](o+0xaf))or o end),(function(d)if a>0x1e then return d end a=a+1 e=(e+0x12ea-d)%0xe return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x6);end return true end)'AKWwD'and l[0x1](0x1e7+d))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xd);end return true end)'OAnCX'and l[0x3](d+0x2ec))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x54);end return true end)'kHYHI'and l[0x2](d+0x2b6))or d end)}l[0x1](0x2456)end){};local e=ne(c(u));return e(...);end return z((function()local n={}local e=0x01;local l;if o.cMswamqb then l=o.cMswamqb(z)else l=''end if o.UBTHDgcc(l,o.eAVmebhl)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,l,n,d,t,o)local o;if 4>e then if 2>e then if 1~=e then do return l(1),l(4,t,d,n,l),l(5,t,d,n)end;else do return function(l,e,n)if n then local e=(l/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(l%(e+e)>=e)and 1 or 0;end;end;end;end else if 3==e then do return l(1),l(4,t,d,n,l),l(5,t,d,n)end;else do return 16777216,65536,256 end;end end else if 5>=e then if 1~=e then for o=38,85 do if 5~=e then local e=d;local o,t,r=t(2);do return function()local a,d,n,l=l(n,e(e,e),e(e,e)+3);e(4);return(l*o)+(n*t)+(d*r)+a;end;end;break;end;local e=d;do return function()local n=l(n,e(e,e),e(e,e));e(1);return n;end;end;break;end;else local e=d;local d,o,t=t(2);do return function()local r,a,n,l=l(n,e(e,e),e(e,e)+3);e(4);return(l*d)+(n*o)+(a*t)+r;end;end;end else if e>=7 then if 5~=e then repeat if 8~=e then do return setmetatable({},{['__\99\97\108\108']=function(e,t,d,l,n)if n then return e[n]elseif l then return e else e[t]=d end end})end break;end;do return n(e,nil,n);end until true;else do return n(e,nil,n);end end else do return t[n]end;end end end end),...)
+-- if _G.HOHO_RAN then return end
+-- _G.HOHO_RAN = true
+-- most executors issue
+-- for Index, Value in next, debug do
+--     if not getgenv()[Index] then
+--         getgenv()[Index] = Value
+--     end
+-- end
+
+repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
+
+local ExecutorName = identifyexecutor()
+
+getgenv().bit = bit32 -- Cubix & Awp issue :)
+
+if ExecutorName:find("Swift") then -- don't ask me idk why it work :D?
+	task.spawn(function()
+	    loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/HohoHub.lua'))()
+	end)
+	wait(2.5)
+	for i, v in pairs(game.CoreGui:GetChildren()) do
+	    if v.Name:find("Hoho") then
+	        v:Destroy()
+	    end
+	end
+elseif ExecutorName:find("Seli") then -- Seliware
+	local rgenv = getrenv()
+	local renv = getrawmetatable(rgenv).__index
+	for i,v in next, renv do
+		rgenv[i] = v
+	end
+end
+
+-- cloneref
+-- local a=Instance.new("Part")for b,c in pairs(getreg())do if type(c)=="table"and#c then if rawget(c,"__mode")=="kvs"then for d,e in pairs(c)do if e==a then getgenv().InstanceList=c;break end end end end end;local f={}function f.invalidate(g)if not InstanceList then return end;for b,c in pairs(InstanceList)do if c==g then InstanceList[b]=nil;return g end end end;if not cloneref then getgenv().cloneref=f.invalidate end
+-- require
+-- if clonefunction and getrenv and getidentity and setidentity then local a=clonefunction(getrenv().require)getgenv().require=function(...)local b=getidentity()setidentity(1)local c=a(...)setidentity(b)return c end end
+
+local notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Notification.lua"))()
+
+if _G.HohoVersion == "v3" or _G["Fumo Blox Fruit - HoHo Hub Kaitun V3"] or _G["HoHo Hub Auto Bounty V3"] or _G["HoHo Fruits Collector"] or _G.HOHO_PVP_UI or _G.HOHO_SERVER_ID then
+	-- return loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HohoV2/Free/BloxFruitFreeV3.lua"))()
+end
+
+-- _G.HOHO_AD = {
+-- 	[1] = {link="https://gcdnb.pbrd.co/images/AVitm37MSdIY.png", exp=tick()+9999, read = "https://discord.gg/CWvQUcfr25"},
+-- }
+local list = {
+	--Adopt Me
+	[383310974] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/Free/AdoptMe.lua'))()",
+	
+	--GO FISHING
+	[6764180126] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/Free/GOFISHING.lua'))()",
+	
+	--Fisch
+	[5750914919] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/refs/heads/Free/Fisch.lua'))()",
+	
+	--Pet Catchers
+	[5686465822] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/PetCatchers.lua'))()",
+	
+	--Slap Battles
+	[2380077519] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/SlapBattles.lua'))()",
+	
+	--Sol's RNG
+	[5361032378] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/SolRNG.lua'))()",
+	
+	--The Strongest Battlegrounds
+	[3808081382] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/TheStrongestBattleground.lua'))()",
+	
+	--DOORS
+	[2440500124] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/Doors.lua'))()",
+	
+	--BLADE BALL
+	[4777817887] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/BladeBall.lua'))()",
+	
+	--HONKAI STAR RAIL SIMULATOR
+	[5477548919] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/HonkaiStarRailSimulator.lua'))()",
+	
+	--BedWars
+	[2619619496] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/GAME/main/bedwar.txt'))()",
+
+	--Element Battle Ground
+	[224422602] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/elementBattlegr.lua'))()",
+
+	--King Legacy
+	[1451439645] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/KingLegacyFree.lua'))()",
+
+	--Blox Fruit
+	[994732206] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/main/BloxFruit/BloxFruitTEST_ONLY.lua'))()",
+  [994732206] = "loadstring(game:HttpGet('https://darkscripts.space/scripts/fa70c4e9-e441-4b61-8fee-c7617f773e4f_815896821812690946.lua'))()",
+
+	--Pet Simulator X
+	[2316994223] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/PetSimXFree.lua'))()",
+
+	--Zombie Attack
+	[504035427]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/ZombieAtack.lua'))()",
+
+	--Two Piece
+	[5303541547]="loadstring(game:HttpGet('https://raw.githubusercontent.com/AlongNgu/alonebruh/main/twoPiecehoho.lua'))()",
+
+	--Dungeon Quest
+	[848145103]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/Paid/DunegonQuest.lua'))()",
+
+	--Tradelands
+	[92096286]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/TradeLands.lua'))()",
+
+	--Anime Fighters Simulator
+	[2324662457]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/anime%20fighters%20simulator.lua'))()",
+
+	--Arsenal
+	[111958650]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/Arsenal.lua'))()",
+
+	--Break In
+	[1318971886]="loadstring(game:HttpGet('https://pastebin.com/raw/xUGJt9Ry', true))()",
+
+	--Tower of Hell
+	[703124385]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/TowerOfHell.lua'))()",
+
+	--steve's one piece
+	[741590026]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/SteveOnePiece.lua'))()",
+
+	--Murder Mystery 2
+	[66654135]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/GAME/main/muder%20mys..2.txt'))()",
+
+	--Giant Survival!
+	[1342991001]="loadstring(game:HttpGet('https://pastebin.com/raw/zABEESgr', true))()",
+
+	--Field Trip Z
+	[1701332290]="loadstring(game:HttpGet('https://pastebin.com/raw/aY7Z3Nd3', true))()",
+
+	--Mad City
+	[498490399]="loadstring(game:HttpGet('https://pastebin.com/raw/EwnNCfin', true))()",
+
+	--vn piece
+	[1493595237]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/vn%20Piece%20script-obfuscated.lua', true))()",
+	
+	--Ro Fruit
+	[3904583189]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/RoFruitFree.lua', true))()",
+
+	--Collect All Pets
+	[3359505957]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/CollectAllPetsFree.lua', true))()",
+	
+	--GPO
+	[648454481]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/GPOFree.lua', true))()",
+
+	--Anime Defense Simulator
+	[4205109410]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/AnimeDefenseSimulatorFree.lua', true))()",
+
+	--Anime Soul Simulator
+	[4098816381]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/AnimeSoulSimulatorFree.lua', true))()",
+}
+-- local listPre = {
+-- 	--HONKAI STAR RAIL SIMULATOR
+-- 	[5477548919] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/HonkaiStarRailSimulator.lua'))()",
+	
+-- 	--BedWars
+-- 	[2619619496] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/GAME/main/bedwar.txt'))()",
+
+-- 	--Element Battle Ground
+-- 	[224422602] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/elementBattlegr.lua'))()",
+
+-- 	--King Legacy
+-- 	[1451439645] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Pre/KingLegacyPre.lua'))()",
+
+-- 	--Blox Fruit
+-- 	[994732206] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/main/BloxFruit/BloxFruitTEST_ONLY.lua'))()",
+
+-- 	--Pet Simulator X
+-- 	[2316994223] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/PetSimXFree.lua'))()",
+
+-- 	--Zombie Attack
+-- 	[504035427]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/ZombieAtack.lua'))()",
+
+-- 	--Two Piece
+-- 	[5303541547]="loadstring(game:HttpGet('https://raw.githubusercontent.com/AlongNgu/alonebruh/main/twoPiecehoho.lua'))()",
+
+-- 	--Dungeon Quest
+-- 	[848145103]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/Paid/DunegonQuest.lua'))()",
+
+-- 	--Tradelands
+-- 	[92096286]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/TradeLands.lua'))()",
+
+-- 	--Anime Fighters Simulator
+-- 	[2324662457]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/anime%20fighters%20simulator.lua'))()",
+
+-- 	--Arsenal
+-- 	[111958650]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/Arsenal.lua'))()",
+
+-- 	--Break In
+-- 	[1318971886]="loadstring(game:HttpGet('https://pastebin.com/raw/xUGJt9Ry', true))()",
+
+-- 	--Tower of Hell
+-- 	[703124385]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/TowerOfHell.lua'))()",
+
+-- 	--steve's one piece
+-- 	[741590026]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/SteveOnePiece.lua'))()",
+
+-- 	--Murder Mystery 2
+-- 	[66654135]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/GAME/main/muder%20mys..2.txt'))()",
+
+-- 	--Giant Survival!
+-- 	[1342991001]="loadstring(game:HttpGet('https://pastebin.com/raw/zABEESgr', true))()",
+
+-- 	--Field Trip Z
+-- 	[1701332290]="loadstring(game:HttpGet('https://pastebin.com/raw/aY7Z3Nd3', true))()",
+
+-- 	--Mad City
+-- 	[498490399]="loadstring(game:HttpGet('https://pastebin.com/raw/EwnNCfin', true))()",
+
+-- 	--vn piece
+-- 	[1493595237]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/vn%20Piece%20script-obfuscated.lua', true))()",
+	
+-- 	--Ro Fruit
+-- 	[3904583189]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Pre/RoFruitPre.lua', true))()",
+	
+-- 	--Collect All Pets
+-- 	[3359505957]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Pre/CollectAllPetsPre.lua', true))()",
+	
+-- 	--GPO
+-- 	[648454481]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Pre/GPOPre.lua', true))()",
+
+-- 	--Anime Defense Simulator
+-- 	[4205109410]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Pre/AnimeDefenseSimulatorPre.lua', true))()",
+	
+-- 	--Anime Soul Simulator
+-- 	[4098816381]="loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Pre/AnimeSoulSimulatorPre.lua', true))()",
+-- }
+-- _G.GameSupport = {"Pet Simulator X","GPO - Grand Piece Online","Blox Fruit","King Legacy","Anime Soul Simulator","Anime Defense Simulator","Ro Fruit","Collect All Pets","Tower of Hell","Break In","Arsenal","Mad City","Viet Nam Piece","Field Trip Z","Giant Survival!","Murder Mystery 2","steve's one piece","Anime Fighters Simulator","Tradelands","Dungeon Quest","Two Piece"}
+_G.HoHoLoaded = true
+-- _G.MY_KEY_IS = "No_Key"
+-- spawn(function()
+--     local function CoreGuiAdd(a)local b,c=pcall(function()a.Parent=gethui()end)if c then warn("failed to add",a.Name,"to gethui!")local b,c=pcall(function()a.Parent=game.CoreGui end)if c then a.DisplayOrder=100000;a.ResetOnSpawn=false;a.Parent=game.Players.LocalPlayer:WaitForChild("PlayerGui")warn("failed to add",a.Name,"to coregui!")end end end
+
+--     local function CreateGroupAds()
+--         local GroupAds = {}
+--         local ADS = Instance.new("ScreenGui")
+--         local Back = Instance.new("Frame")
+--         local Label = Instance.new("TextLabel")
+--         local UIStroke = Instance.new("UIStroke")
+--         local Close = Instance.new("TextButton")
+--         local UIStroke_1 = Instance.new("UIStroke")
+--         local Inner = Instance.new("Frame")
+--         local UIGridLayout = Instance.new("UIGridLayout")
+--         local UIPadding = Instance.new("UIPadding")
+    
+--         ADS.Name = "ADS"
+--         ADS.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+--         CoreGuiAdd(ADS)
+    
+--         Back.BorderSizePixel = 0
+--         Back.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+--         Back.Size = UDim2.new(0.9, 0, 0.5, 0)
+--         Back.BorderColor3 = Color3.fromRGB(0, 0, 0)
+--         Back.Name = "Back"
+--         Back.Position = UDim2.new(0, 0, 0.62406, 0)
+--         Back.Parent = ADS
+    
+--         Label.TextWrapped = true
+--         Label.BorderSizePixel = 0
+--         Label.TextScaled = true
+--         Label.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
+--         Label.FontFace = Font.new("rbxasset://fonts/families/HighwayGothic.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+--         Label.Position = UDim2.new(0, 0, -0.0666667, 0)
+--         Label.Name = "Label"
+--         Label.TextSize = 14
+--         Label.Size = UDim2.new(1, 0, 0.07, 0)
+--         Label.ZIndex = 2
+--         Label.TextColor3 = Color3.fromRGB(0, 0, 0)
+--         Label.BorderColor3 = Color3.fromRGB(0, 0, 0)
+--         Label.Text = "HOHO ADS (contact discrod.gg/hohohub) (auto close when 60s)"
+--         Label.Parent = Back
+    
+--         UIStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+--         UIStroke.Parent = Label
+    
+--         Close.TextWrapped = true
+--         Close.ZIndex = 2
+--         Close.BorderSizePixel = 0
+--         Close.TextScaled = true
+--         Close.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+--         Close.Position = UDim2.new(0.961977, 0, -0.0666667, 0)
+--         Close.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+--         Close.Name = "Close"
+--         Close.TextSize = 14
+--         Close.Size = UDim2.new(0.03, 0, 0.1, 0)
+--         Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+--         Close.BorderColor3 = Color3.fromRGB(255, 0, 0)
+--         Close.Text = "X"
+--         Close.Parent = Back
+    
+--         UIStroke_1.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+--         UIStroke_1.Parent = Close
+    
+--         Inner.BorderSizePixel = 0
+--         Inner.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+--         Inner.Size = UDim2.new(1, 0, 0, 0.5)
+--         Inner.BorderColor3 = Color3.fromRGB(0, 0, 0)
+--         Inner.BackgroundTransparency = 1
+--         Inner.Name = "Inner"
+--         Inner.Parent = Back
+    
+--         UIGridLayout.SortOrder = Enum.SortOrder.LayoutOrder
+--         UIGridLayout.CellSize = UDim2.new(0, 250, 0, 250)
+--         UIGridLayout.Parent = Inner
+    
+--         UIPadding.PaddingLeft = UDim.new(0.025, 0)
+--         UIPadding.Parent = Inner
+        
+--         Close.MouseButton1Click:Connect(function()
+--             game.Debris:AddItem(ADS, 0)
+--         end)
+        
+--         game.Debris:AddItem(ADS, 60)
+        
+--         function GroupAds:CreateAds(Image, Link)
+--             local ImageButton = Instance.new("ImageButton")
+--             ImageButton.Parent = Inner
+--             ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+--             ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+--             ImageButton.BorderSizePixel = 0
+--             ImageButton.Size = UDim2.new(0, 100, 0, 100)
+--             ImageButton.Image = Image
+--             ImageButton.HoverImage = "http://www.roblox.com/asset/?id=3229099135"
+            
+--             ImageButton.MouseButton1Click:Connect(function()
+--                 game:GetService("StarterGui"):SetCore("SendNotification",{
+--                     Title = "HOHO ADS", -- Required
+--                     Text = "Ads copied to your clipboard!",
+--                     Icon = Image
+--                 })
+--                 setclipboard(Link)
+--             end)
+--         end
+        
+--         return GroupAds
+--     end
+    
+--     local function GetImage(name, url)
+--         local path = name .. ".png"
+--         if not isfile(path) then
+--             local content = game:HttpGet(url)
+--             writefile(path, content)
+--         end
+--         return getcustomasset(path)
+--     end
+    
+--     -- local GroupADS = CreateGroupAds()
+--     -- GroupADS:CreateAds(GetImage("accbloxnet", "https://i.imgur.com/4fhvSM3.png"), "https://accblox.net/")
+--     -- GroupADS:CreateAds(GetImage("hohodiscord", "https://i.imgur.com/e2fdiZD.png"), "https://discord.gg/hohohub")
+-- end)
+
+notify.New("This is not a bug announce, just a notify for some1 don't know!", 30)
+notify.New("If script is not load, try to use VPN or CHANGE EXECUTOR!", 30)
+
+if list[game.GameId] ~= nil then
+	loadstring(list[tonumber(game.GameId)])()
+else
+	notify.New("This game is not supported by hohohub :(", 60)
+	notify.New("Please join discord.gg/hohohub to check what game r supported by us!", 60)
+end
+-- if _G["HoHo Hub Auto Bounty V3"] or _G["Fumo Blox Fruit - HoHo Hub Kaitun V3"] then return end
+local path = "wait(5);loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/main/ScriptLoad.lua'))()"
+-- if getgenv().Key then
+-- 	path = "getgenv().Key = '"..getgenv().Key.."'\n"..path
+-- end
+-- local queueteleport = syn and syn.queue_on_teleport or queue_on_teleport or fluxus and fluxus.queue_on_teleport
+-- queueteleport(path)
