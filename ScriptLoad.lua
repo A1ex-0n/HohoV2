@@ -87,7 +87,7 @@ local list = {
 
 	--Blox Fruit
 	[994732206] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/main/BloxFruit/BloxFruitTEST_ONLY.lua'))()",
-  [994732206] = "loadstring(game:HttpGet('https://darkscripts.space/scripts/fa70c4e9-e441-4b61-8fee-c7617f773e4f_815896821812690946.lua'))()",
+        [994732206] = "loadstring(game:HttpGet('https://darkscripts.space/scripts/fa70c4e9-e441-4b61-8fee-c7617f773e4f_815896821812690946.lua'))()",
 
 	--Pet Simulator X
 	[2316994223] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/PetSimXFree.lua'))()",
